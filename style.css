@@ -1,0 +1,49 @@
+p{
+    color: brown;
+    font-size: 20pt;
+     text-align: center; 
+}
+.title{
+    color: chocolate;
+}
+#h2{
+    background-color: rgb(103, 230, 120);
+}
+#h1{
+    background-color: rgba(224, 77, 107, 0.993);
+}
+.box-1{
+    background-color: hotpink;
+    width: 100px;
+    height: 250px;
+
+    /* max-width: 300px;
+    max-height: 300px;
+    min-width: 100px;
+    min-height: 100px; */
+    border: dashed 1px black;
+}
+    .box-2{
+        background-color: rgb(153, 19, 86);
+    width: 100px;
+    height: 250px;
+    border: dashed 1px black;
+    border-top-right-radius:  100px;
+    border-top-left-radius:  100px;
+    }
+    .box-3{
+        background-color: rgb(182, 96, 139);
+    width: 100px;
+    height: 250px;
+    border: dashed 1px black;
+    border-top-right-radius:  100px;
+    border-bottom-left-radius:  100px;
+    }
+    .box-4{
+        background-color: rgb(66, 2, 34);
+    width: 100px;
+    height: 250px;
+    border: dashed 1px black;
+    border-top-right-radius:  100px;
+    border-radius:  10px 20px;
+    }
